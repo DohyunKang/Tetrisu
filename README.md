@@ -11,10 +11,14 @@
 - 반응형 컨트롤
 
 ## 스크린샷
-![게임 시작] <img width="60" alt="2" src="https://github.com/user-attachments/assets/868a694d-c9ce-4e72-81e0-1ae7338f8beb">
-![블록 바꾸기] <img width="60" alt="2" src="https://github.com/user-attachments/assets/1d4aa2e0-1aaa-4321-b2bc-32223f80e874">
-![점수]<img width="60" alt="2" src="https://github.com/user-attachments/assets/76452af2-e980-42ad-baff-6e8bd39f5d4d">
-![게임 오버2]<img width="60" alt="2" src="https://github.com/user-attachments/assets/114feeb7-2f11-4574-a263-3eb85e356de1">
+![게임 시작] 
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/868a694d-c9ce-4e72-81e0-1ae7338f8beb">
+![블록 바꾸기]
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/1d4aa2e0-1aaa-4321-b2bc-32223f80e874">
+![점수]
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/76452af2-e980-42ad-baff-6e8bd39f5d4d">
+![게임 오버2]
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/114feeb7-2f11-4574-a263-3eb85e356de1">
 
 ## 설치 방법
 1. 저장소를 클론합니다:
