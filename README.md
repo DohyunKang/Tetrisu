@@ -28,8 +28,7 @@
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/114feeb7-2f11-4574-a263-3eb85e356de1">
 
 ### +) exe 파일 icon 설정하는법
-
-<img width="500" alt="2" src="https://github.com/user-attachments/assets/c53f28f3-6ce5-4615-8d84-54a6000d03d7">
+<img width="50" alt="2" src="https://github.com/user-attachments/assets/c53f28f3-6ce5-4615-8d84-54a6000d03d7">
 
 #### Tetrisu 프로젝트 -> 속성 -> Resources -> icon -> Assets\icon
 
