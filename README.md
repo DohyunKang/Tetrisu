@@ -10,7 +10,7 @@
 - 부드러운 블록 이동 및 회전
 - 반응형 컨트롤
 
-## 스크린샷
+## UI
 ### [게임 시작] 
 
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/868a694d-c9ce-4e72-81e0-1ae7338f8beb">
@@ -26,6 +26,14 @@
 ### [게임 오버2]
 
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/114feeb7-2f11-4574-a263-3eb85e356de1">
+
+### +) exe 파일 icon 설정하는법
+
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/c53f28f3-6ce5-4615-8d84-54a6000d03d7">
+
+#### Tetrisu 프로젝트 -> 속성 -> Resources -> icon -> Assets\icon
+
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/905ac09d-fbb7-4a12-9aa5-9e20c1de269d">
 
 ## 설치 방법
 1. 저장소를 클론합니다:
