@@ -23,7 +23,7 @@
 
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/76452af2-e980-42ad-baff-6e8bd39f5d4d">
 
-### [게임 오버2]
+### [게임 오버]
 
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/114feeb7-2f11-4574-a263-3eb85e356de1">
 
