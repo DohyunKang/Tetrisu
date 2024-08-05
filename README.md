@@ -33,7 +33,7 @@
 
 <img width="500" alt="2" src="https://github.com/user-attachments/assets/905ac09d-fbb7-4a12-9aa5-9e20c1de269d">
 
-#### 결과 아이콘 : <img width="40" alt="2" src="https://github.com/user-attachments/assets/c53f28f3-6ce5-4615-8d84-54a6000d03d7">
+#### 결과 아이콘 : <img width="30" alt="2" src="https://github.com/user-attachments/assets/c53f28f3-6ce5-4615-8d84-54a6000d03d7">
 
 ## 설치 방법
 1. 저장소를 클론합니다:
