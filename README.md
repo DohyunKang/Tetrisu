@@ -1,4 +1,4 @@
-# 테트리스 게임 <img width="100" alt="2" src="https://github.com/user-attachments/assets/c58c796f-53bd-43b7-8f58-76ff2932e49d">
+# 테트리스 게임 <img width="50" alt="2" src="https://github.com/user-attachments/assets/c58c796f-53bd-43b7-8f58-76ff2932e49d">
 
 ## 설명
 이 프로젝트는 C#과 WPF를 사용하여 구현된 클래식 테트리스 게임입니다. 이 게임은 매끄러운 컨트롤과 매력적인 UI를 통해 인기 있는 퍼즐 게임을 재현하는 것을 목표로 합니다.
